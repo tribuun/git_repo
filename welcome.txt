@@ -1,2 +1,2 @@
 print ('Welcome!')
-print ('How are you?')
+print ('How do you do?')
